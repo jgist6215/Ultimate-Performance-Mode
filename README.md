@@ -29,3 +29,8 @@ This tutorial will show you how to put your Desktop/Laptop into Ultimate Perform
 - Go to Control Panel and Change View to Large or Small Icons
 - Click Power Options
 - Click Ultimate Performance
+
+
+<h2>Installation Steps</h2>
+
+ >**Note**: Might not function the same for all computers.
