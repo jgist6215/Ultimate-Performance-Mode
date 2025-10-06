@@ -6,3 +6,8 @@
 
 <h1>Ultimate-Performance-Mode</h1>
 This tutorial will show you how to put your Desktop/Laptop into Ultimate Performance Mode!
+
+
+<h2>Video Demonstration</h2>
+
+- ### [YouTube: How To Enable Ultimate Performance Mode](https://www.youtube.com/watch?v=bBdMKz18TWk)
