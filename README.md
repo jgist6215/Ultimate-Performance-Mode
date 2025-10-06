@@ -45,4 +45,4 @@ Enter This Command "powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb
 
 Open Start Menu again and open Control Panel
 
-<img width="480" height="408" alt="Image" src="https://github.com/user-attachments/assets/783f0012-a2e6-460d-90d2-8d7b8487e82e" />
+![Image](https://github.com/user-attachments/assets/ac6592ee-641c-453c-970f-c91319eaab68)
