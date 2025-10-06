@@ -42,3 +42,7 @@ Open Start Menu and Type CMD and Click "Run as Administrator"
 Enter This Command "powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61" 
 
 ![Image](https://github.com/user-attachments/assets/9d38a4b9-3537-45d3-8fb4-8072e803a2ab)
+
+Open Start Menu again and open Control Panel
+
+<img width="480" height="408" alt="Image" src="https://github.com/user-attachments/assets/783f0012-a2e6-460d-90d2-8d7b8487e82e" />
