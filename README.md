@@ -11,3 +11,20 @@ This tutorial will show you how to put your Desktop/Laptop into Ultimate Perform
 <h2>Video Demonstration</h2>
 
 - ### [YouTube: How To Enable Ultimate Performance Mode](https://www.youtube.com/watch?v=bBdMKz18TWk)
+
+<h2>Environments and Technologies Used</h2>
+
+- Control Panel
+- Command Prompt
+
+<h2>Operating Systems Used </h2>
+
+- Windows 10</b> (21H2)
+
+<h2>List of Prerequisites</h2>
+- Click the Start Menu
+- Type "Command Prompt"
+- Enter This Command "powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61" 
+- Go to Control Panel and Change View to Large or Small Icons
+- Click Power Options
+- Click Ultimate Performance
