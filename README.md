@@ -5,3 +5,4 @@
 
 
 <h1>Ultimate-Performance-Mode</h1>
+This tutorial will show you how to put your Desktop/Laptop into Ultimate Performance Mode!
