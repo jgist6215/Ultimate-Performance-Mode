@@ -46,3 +46,13 @@ Enter This Command "powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb
 Open Start Menu again and open Control Panel
 
 ![Image](https://github.com/user-attachments/assets/ac6592ee-641c-453c-970f-c91319eaab68)
+
+Where it says View By select "Large Icons" or "Small Icons" then click "Power Options"
+
+![Image](https://github.com/user-attachments/assets/bb4c24f4-f0f7-45c4-94c6-c7f49751c8da)
+
+In the Power Options Setting Click "Ultimate Performance Mode" it might be under aditional plans on the same page.
+
+![Image](https://github.com/user-attachments/assets/3b46b6a7-d95e-423a-ad68-91c14ea2ff9f)
+
+<h2>Congratulations ! You've now enabled Ultimate Performance Mode! !</h2>
