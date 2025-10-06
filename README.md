@@ -22,6 +22,7 @@ This tutorial will show you how to put your Desktop/Laptop into Ultimate Perform
 - Windows 10</b> (21H2)
 
 <h2>List of Prerequisites</h2>
+
 - Click the Start Menu
 - Type "Command Prompt"
 - Enter This Command "powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61" 
