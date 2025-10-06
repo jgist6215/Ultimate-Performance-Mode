@@ -54,4 +54,4 @@ In the Power Options Setting Click "Ultimate Performance Mode" it might be under
 
 ![Image](https://github.com/user-attachments/assets/3b46b6a7-d95e-423a-ad68-91c14ea2ff9f)
 
-<h2>Congratulations ! You've now enabled Ultimate Performance Mode! !</h2>
+<h2>Congratulations ! You've now enabled Ultimate Performance Mode!</h2>
