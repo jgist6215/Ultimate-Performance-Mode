@@ -34,3 +34,7 @@ This tutorial will show you how to put your Desktop/Laptop into Ultimate Perform
 <h2>Installation Steps</h2>
 
  >**Note**: Might not function the same for all computers.
+
+Open Start Menu and Type Command Prompt 
+
+![Image](https://github.com/user-attachments/assets/fccede71-791f-4fa3-bc16-c9df64e5dd99)
